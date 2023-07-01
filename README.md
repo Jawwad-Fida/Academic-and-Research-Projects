@@ -31,7 +31,7 @@ An online based platform for multiple hospitals. Ability to track, monitor, and 
 A platform where customers are able to Buy/Rent apartments or properties and also able to track their monthly invoices and utility bills. Various real estate businesses will be able to host their apartments or properties here as well as track their customers' monthly utility bills.
 
 **Tech Stack and APIs** : PHP PDO, HTML, CSS, Boostrap, Javascript, MySQL, MailTrap, SSLCommerz Payment Gateway, PHP mPDF library\
-**Project docs** : [SRS Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604572/SAD.SRS-Report.pdf), [Project Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604577/SAD.Lab.Project.Report.pdf)
+**Project docs** : [SRS Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604572/SAD.SRS-Report.pdf), [Project Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604577/SAD.Lab.Project.Report.pdf)\
 **Project video link** : [Youtube](https://youtu.be/QWQO_P_CYhA)
 
 ### [Stroke Prediction](https://github.com/Jawwad-Fida/Stroke-Prediction "GitHub Repository") - 📘 Pattern Recognition Project
@@ -50,7 +50,7 @@ We have worked on the DNA sequence classification problem where the input is the
 An eCommerce Website where customers can order food online. It also contains a system for managing delivery men and an authentication system during interactions between delivery men and customers
 
 **Tech Stack** :  HTML, CSS, Bootstrap, Javascript, PHP PDO, MySQL, MailTrap, SSLCommerz Payment Gateway\
-**Project doc** : [Project Documentation.docx](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System/files/11925679/Project.Documentation.-.Group.3.Sec.C.docx)
+**Project doc** : [Project Documentation.docx](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System/files/11925679/Project.Documentation.-.Group.3.Sec.C.docx)\
 **Project video link**: [Youtube](https://youtu.be/rPK7x3IkC0w)
 
 ### [Salary Estimator](https://github.com/Jawwad-Fida/Data-Science-Salary-Estimator "GitHub Repository") - 📘 Data Science Project
