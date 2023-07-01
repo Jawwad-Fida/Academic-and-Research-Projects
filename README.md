@@ -2,17 +2,22 @@
 
 ### BSc in Computer Science and Engineering (CSE), 2018-2022 at [United International University (UIU)](https://www.uiu.ac.bd/)
 
-
 ## Research Projects
 
 ### [Predicting Irregular Sleeping Patterns from Social Media: A Psycholinguistic Analysis From Tweets](https://github.com/Jawwad-Fida/Predicting-Irregular-Sleeping-Patterns-From-Tweets "GitHub Repository") - 📘 Undergraduate Thesis
 Predict whether a user is suffering from Irregular Sleeping Patterns (ISP) based on their social media interactions on Twitter. We identify users' ISP by using psycholinguistic (i.e., LIWC) and contextual (i.e., BERT) features from tweets. We then built a hybrid classification prediction model to predict users’ Irregular Sleeping Patterns from psycholinguistic traits derived from user tweets. 
 
- - **Domain**:  Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
- - **Tools used**: Twitter API - Tweepy, LIWC2015, IBM SPSS Statistical Software.
+**Domain**:  Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
+**Tools used**: Twitter API - Tweepy, LIWC2015, IBM SPSS Statistical Software.
 
 The extended version of this work has been submitted for publication at [Elsevier - Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications)\
 Current Status: [Under Review](https://track.authorhub.elsevier.com/?uuid=2968e30a-7905-4b86-8c8d-44a7f486a6c8)
+
+### Social Media Research: A Review on User Behavior - 📘 Survey Paper
+Review existing literature on user behavior research in social media. Additionally, review the study of machine learning algorithms used in user behavior research and the effect of social media recommendation systems on user behavior.
+
+**Domain**: Machine Learning, User Behavior, Recommendation Systems, Social Media, Behavioral Analysis\
+Current Status: On going
 
 ## Academic Projects 
 
@@ -27,6 +32,7 @@ A platform where customers are able to Buy/Rent apartments or properties and als
 
 **Tech Stack and APIs** : PHP PDO, HTML, CSS, Boostrap, Javascript, MySQL, MailTrap, SSLCommerz Payment Gateway, PHP mPDF library\
 **Project docs** : [SRS Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604572/SAD.SRS-Report.pdf), [Project Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604577/SAD.Lab.Project.Report.pdf)
+**Project video link** : [Youtube](https://youtu.be/QWQO_P_CYhA)
 
 ### [Stroke Prediction](https://github.com/Jawwad-Fida/Stroke-Prediction "GitHub Repository") - 📘 Pattern Recognition Project
 Predict whether a patient is likely to get stroke using machine learning classification algorithms. Performance Comparison of algorithms.
@@ -40,25 +46,16 @@ We have worked on the DNA sequence classification problem where the input is the
 **Tech Stack** :  Python, Numpy, Pandas, Sklearn, Keras, Tensorflow.\
 **Project doc** : [Bioinformatics Project Report.pdf](https://github.com/Jawwad-Fida/DNA-sequence-classification-by-Deep-Neural-Network/files/11925655/Bioinformatics.Project.Report.of.Group.1.docx.pdf)
 
-### [RSS-Automobiles](https://github.com/ahmedshahriar/RSS-Automobiles "GitHub Repository") - 📘 OBJECT ORIENTED PROGRAMMING 1 (JAVA)
-An automobile showroom management system where a sales personnel of a showroom (e.g.-Manager) can do basic inventory CRUD operations on automobiles (Cars) and order with some extensible features such as billing form with proper authentication.
+### [Online Restaurant Management System](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System "GitHub Repository") - 📘 Database Management Systems Project
+An eCommerce Website where customers can order food online. It also contains a system for managing delivery men and an authentication system during interactions between delivery men and customers
 
-**Tech Stack** : java , MySQL\
-**Project doc** : [Project Doc MS Word](https://github.com/ahmedshahriar/RSS-Automobiles/blob/master/Project_Overview.docx)
+**Tech Stack** :  HTML, CSS, Bootstrap, Javascript, PHP PDO, MySQL, MailTrap, SSLCommerz Payment Gateway\
+**Project doc** : [Project Documentation.docx](https://github.com/Jawwad-Fida/Online-Restaurant-Management-System/files/11925679/Project.Documentation.-.Group.3.Sec.C.docx)
+**Project video link**: [Youtube](https://youtu.be/rPK7x3IkC0w)
 
-### [TestCases-AIUB](https://github.com/ahmedshahriar/TestCases-AIUB "GitHub Repository") - 📘 SOFTWARE QUALITY AND TESTING
-A collection of test cases and automation script made with java and selenium to test the [AIUB](https://www.aiub.edu) website.
+### [Salary Estimator](https://github.com/Jawwad-Fida/Data-Science-Salary-Estimator "GitHub Repository") - 📘 Data Science Project
+A tool that estimates data science salaries. Used a Dataset containing over 1000 job descriptions from glassdoor. Built a client-facing API using flask.
 
-**Tech Stack** : java , selenium
+**Tech Stack** : Python, Numpy, Matplotlib, Seaborn, Pandas, Sklearn, Flask
 
 
-### [Mediaplayer-Controller](https://github.com/ahmedshahriar/Mediaplayer-Controller "GitHub Repository") - 📘 HUMAN COMPUTER INTERACTION
-A basic pot player controller which is powered by esp32 Arduino.
-
-**Tech Stack** : python , Arduino
-
-### [Sea Beach](https://github.com/ahmedshahriar/Sea-Beach "GitHub Repository") - 📘 COMPUTER GRAPHICS (C++, OpenGL)
-A collection of scenarios represents sea-beach , marine drive and resort.
-
-**Tech Stack** : C++ , OpenGl, GLUT\
-**Transition Clip** : [Transition Clip Gif](https://github.com/ahmedshahriar/Sea-Beach/blob/master/clip/clip_gif.gif)
