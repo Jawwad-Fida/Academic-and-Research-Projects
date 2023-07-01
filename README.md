@@ -1,12 +1,19 @@
 # Academic-and-Research-Projects
 
-## BSc in Software Engineering (SE), 2016-2019 at AIUB
+### BSc in Computer Science and Engineering (CSE), 2018-2022 at [United International University (UIU)](https://www.uiu.ac.bd/)
 
-### [Can We Predict Insomnia From Tweets?](https://ahmedshahriar.com/assets/files/Can_We_Predict_Insomnia_from_Tweets.pdf) - Undergraduate Thesis
-In  this  research,  a  hypothesis  is  being  presented  to  predict  insomnia  by  analyzing  users’tweets.  After collecting, filtering, and pre-processing the tweets, psycholinguistic patterns, i.e., word usageand semantics were extracted and fed to a classification model for insomnia prediction.
 
-The extended version of this work has been published at **Journal of Medical Internet Research** (Q1, IF-7.08). Click here to view -\
-[![DOI:10.2196/27613](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-1E70C2.svg)](https://doi.org/10.2196/27613)
+## Research Projects
+
+### [Predicting Irregular Sleeping Patterns from Social Media: A Psycholinguistic Analysis From Tweets](https://github.com/Jawwad-Fida/Predicting-Irregular-Sleeping-Patterns-From-Tweets) (Undergraduate Thesis)
+Predict whether a user is suffering from Irregular Sleeping Patterns (ISP) based on their social media interactions on Twitter. We identify users' ISP by using psycholinguistic (i.e., LIWC) and contextual (i.e., BERT) features from tweets. We then built a hybrid classification prediction model to predict users’ Irregular Sleeping Patterns from psycholinguistic traits derived from user tweets. 
+
+ - **Domain**:  Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
+ - **Tools used**: Twitter API - Tweepy, LIWC2015, IBM SPSS Statistical Software.
+
+The extended version of this work has been submitted for publication at [Elsevier - Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications). 
+
+Current Status: [Under Review](https://track.authorhub.elsevier.com/?uuid=2968e30a-7905-4b86-8c8d-44a7f486a6c8)
 
 ### [Seradam (Capstone Project)](https://github.com/ahmedshahriar/Seradam "GitHub Repository") - Final Year Project
 An e-commerce web-based project specialized in meta-searching, where user can see comparison list of prices of branded products from various e-commerce websites. User can add products to the wish list to track for price change.
