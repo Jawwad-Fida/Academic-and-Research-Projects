@@ -1,47 +1,44 @@
-# Academic-and-Research-Projects
+# Academic and Research Projects
 
 ### BSc in Computer Science and Engineering (CSE), 2018-2022 at [United International University (UIU)](https://www.uiu.ac.bd/)
 
 
 ## Research Projects
 
-### [Predicting Irregular Sleeping Patterns from Social Media: A Psycholinguistic Analysis From Tweets](https://github.com/Jawwad-Fida/Predicting-Irregular-Sleeping-Patterns-From-Tweets) (Undergraduate Thesis)
+### [Predicting Irregular Sleeping Patterns from Social Media: A Psycholinguistic Analysis From Tweets](https://github.com/Jawwad-Fida/Predicting-Irregular-Sleeping-Patterns-From-Tweets "GitHub Repository") - 📘 Undergraduate Thesis
 Predict whether a user is suffering from Irregular Sleeping Patterns (ISP) based on their social media interactions on Twitter. We identify users' ISP by using psycholinguistic (i.e., LIWC) and contextual (i.e., BERT) features from tweets. We then built a hybrid classification prediction model to predict users’ Irregular Sleeping Patterns from psycholinguistic traits derived from user tweets. 
 
  - **Domain**:  Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
  - **Tools used**: Twitter API - Tweepy, LIWC2015, IBM SPSS Statistical Software.
 
-The extended version of this work has been submitted for publication at [Elsevier - Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications). 
-
+The extended version of this work has been submitted for publication at [Elsevier - Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications)\
 Current Status: [Under Review](https://track.authorhub.elsevier.com/?uuid=2968e30a-7905-4b86-8c8d-44a7f486a6c8)
 
-### [Seradam (Capstone Project)](https://github.com/ahmedshahriar/Seradam "GitHub Repository") - Final Year Project
-An e-commerce web-based project specialized in meta-searching, where user can see comparison list of prices of branded products from various e-commerce websites. User can add products to the wish list to track for price change.
+## Academic Projects 
 
+### [HealthStack System](https://github.com/Jawwad-Fida/HealthStack-System "GitHub Repository") - 📘 Software Engineering Project
+An online based platform for multiple hospitals. Ability to track, monitor, and share a patient's health records between all hospitals. Patients can also see information regarding multiple hospitals and doctors, as well as take appointments via online. Pay laboratory tests via online as well as chat with appointed doctors.
 
-**Tech Stack** : BeautifulSoup4, Django, Django REST framework, react.js, Material-UI\
-**Project doc** : [Seradam Doc Pdf](https://github.com/ahmedshahriar/Seradam/blob/master/SERADAM_DOC.pdf)
+**Tech Stack and APIs** : Django, Django REST framework, HTML, CSS, Boostrap, Javascript, SQLite, MailTrap, SSLCommerz Payment Gateway, Django REST framework, Django PDF library, Django channels for chat, ngrok HTTP\
+**Project doc** : [MKdocs documentation](https://jawwad-fida.github.io/HealthStack-System/)
 
+### [RADON - Real Estate Business](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business "GitHub Repository") - 📘 System Analysis and Design Project 
+A platform where customers are able to Buy/Rent apartments or properties and also able to track their monthly invoices and utility bills. Various real estate businesses will be able to host their apartments or properties here as well as track their customers' monthly utility bills.
 
-### [AIUB Connect 2.0](https://github.com/ahmedshahriar/AIUB-connect "GitHub Repository") - 📘 ADVANCED TOPICS IN PROGRAMMING III (Node.js, Laravel)
-It serves as a social media platform for AIUB students. The user account is created via web scraping using AIUB-portal ID and password. Apart from basic social media activities, users can do text messaging(ChatCamp) and video chat(Vidyo.io).
+**Tech Stack and APIs** : PHP PDO, HTML, CSS, Boostrap, Javascript, MySQL, MailTrap, SSLCommerz Payment Gateway, PHP mPDF library\
+**Project docs** : [SRS Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604572/SAD.SRS-Report.pdf), [Project Report](https://github.com/Jawwad-Fida/Radon-Real-Estate-Business/files/9604577/SAD.Lab.Project.Report.pdf)
 
-**Tech Stack** : Social Network - Node.js, Laravel, MySQL, Bootstrap, CHATCAMP, Vidyo.io\
-**Project link** : [Previous Version - AIUB Connect 1.0](https://github.com/ahmedshahriar/AIUB-Connect-1.0) (Node.js, Socket.IO)\
+### [Stroke Prediction](https://github.com/Jawwad-Fida/Stroke-Prediction "GitHub Repository") - 📘 Pattern Recognition Project
+Predict whether a patient is likely to get stroke using machine learning classification algorithms. Performance Comparison of algorithms.
 
+**Tech Stack** : Python, Numpy, Matplotlib, Seaborn, Pandas, Sklearn\
+**Project doc** : [Pattern Lab Project Report - Stroke Prediction.pdf](https://github.com/Jawwad-Fida/Stroke-Prediction/files/9715902/Pattern.Lab.Project.Report.-.Team.Kingsmen.pdf)
 
-### [HR-Management-System](https://github.com/ahmedshahriar/HR-Management-System "GitHub Repository") - 📘 ADVANCE DATABASE MANAGEMENT SYSTEM (ORACLE)
-This project comprises a Human Resource Management System database that combines several processes to ensure the easy management of human resources, business processes, and data. The database is created from scratch using ER and Schema diagrams and the normalization process. Some advanced database features using PL/SQL such as - package, trigger, cursor, procedure, function, record, etc. were implemented in the project.
+### [DNA sequence classification by Deep Neural Network](https://github.com/Jawwad-Fida/DNA-sequence-classification-by-Deep-Neural-Network "GitHub Repository") - 📘 Bioinformatics Project
+We have worked on the DNA sequence classification problem where the input is the DNA sequence and the output class states whether a certain histone protein is present on the sequence or not. For this purpose, we have used one of the datasets from 12 different datasets that we have collected. The name of the dataset is H3K4me2. 
 
-
-**Tech Stack** : Bootstrap4, PHP, Oracle Database (10g XE)\
-**Project doc** : [Project Doc Pdf](https://github.com/ahmedshahriar/HR-Management-System/blob/master/Docs/HR_MGMT_DOC.pdf)
-
-### [BOOM 2.0](https://github.com/ahmedshahriar/BOOM-2.0 "GitHub Repository") - 📘 OBJECT ORIENTED PROGRAMMING 2 (C#)
-A multiplayer FPS game powered by UNet service. Users can connect with anyone from around the world and play the game.
-
-**Tech Stack** : C# ,Unity 3d\
-**Gameplay link** : [Youtube Clip](https://youtu.be/0ql_OKhicUk)
+**Tech Stack** :  Python, Numpy, Pandas, Sklearn, Keras, Tensorflow.\
+**Project doc** : [Bioinformatics Project Report.pdf](https://github.com/Jawwad-Fida/DNA-sequence-classification-by-Deep-Neural-Network/files/11925655/Bioinformatics.Project.Report.of.Group.1.docx.pdf)
 
 ### [RSS-Automobiles](https://github.com/ahmedshahriar/RSS-Automobiles "GitHub Repository") - 📘 OBJECT ORIENTED PROGRAMMING 1 (JAVA)
 An automobile showroom management system where a sales personnel of a showroom (e.g.-Manager) can do basic inventory CRUD operations on automobiles (Cars) and order with some extensible features such as billing form with proper authentication.
