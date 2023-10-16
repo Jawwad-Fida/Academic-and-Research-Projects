@@ -10,14 +10,14 @@ Predict whether a user is suffering from Irregular Sleeping Patterns (ISP) based
 **Domain**:  Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
 **Tools used**: Twitter API - Tweepy, LIWC2015, IBM SPSS Statistical Software.
 
-The extended version of this work has been submitted for publication at [Elsevier - Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications)\
+The extended version of this work has been submitted for publication at [ACM Conference on Intelligent User Interfaces (ACM IUI 2024)](https://iui.acm.org/2024/)\
 Current Status: [Under Review](https://track.authorhub.elsevier.com/?uuid=2968e30a-7905-4b86-8c8d-44a7f486a6c8)
 
-### Social Media Research: A Review on User Behavior - 📘 Survey Paper
-Review existing literature on user behavior research in social media. Additionally, review the study of machine learning algorithms used in user behavior research and the effect of social media recommendation systems on user behavior.
+### Social Media Research: A Review on User Behavior, and its Opportunities, Challenges and Future Research - 📘 Survey Paper
+Conduct a comprehensive overview of existing literature on psychological user behavior research in social media. Additionally, review the study of machine learning and deep learning algorithms used in user behavior research and identify key contributions, limitations, and future research directions.
 
-**Domain**: Machine Learning, User Behavior, Recommendation Systems, Social Media, Behavioral Analysis\
-Current Status: On going
+**Domain**: Machine Learning, Psychological User Behavior, Social Media, Behavioral Analysis, Systematic Literature Review
+
 
 ## Academic Projects 
 
