@@ -58,4 +58,8 @@ A tool that estimates data science salaries. Used a Dataset containing over 1000
 
 **Tech Stack** : Python, Numpy, Matplotlib, Seaborn, Pandas, Sklearn, Flask
 
+### [Smart Traffic System](https://github.com/Jawwad-Fida/Smart-Traffic-System "GitHub Repository") - 📘 Data Science Project
+A system that sequentially blinks three LEDS like traffic lights. Proteus Simulation hardware project for Microprocessor and Microcontroller Laboratory
+When red LED is on, a servo motor should stop rotating, when yellow LED is on, the motor will rotate at a preset slow speed and when the green LED is on, the motor will rotate at a higher preset speed.
+There are also pushbuttons to individually control the lights from outside.
 
